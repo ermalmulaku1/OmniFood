@@ -5,7 +5,6 @@
   "default": "index.html",
   "private": "false",
   "scripts": {
-    "prebuild": "echo > dist/.nojekyll",
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist",
     "predeploy": "npm run build",
