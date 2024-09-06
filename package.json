@@ -1,7 +1,7 @@
 {
   "homepage": "https://ermalmulaku1.github.io/OmniFood",
-  "name": "OmniFood",
-  "version": "1.0.0",
+  "name": "omnifood",
+  "version": "0.1.0",
   "default": "index.html",
   "private": "false",
   "scripts": {
